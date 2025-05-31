@@ -1,6 +1,5 @@
 # AGENT instructions
 - このリポジトリでのコミットメッセージやPull Requestの本文、説明文はすべて日本語で記述してください。
-- 変更を加えた際は `python -m py_compile $(find . -name '*.py')` を実行して構文エラーがないか確認してください。
 
 # 開発環境情報
 
